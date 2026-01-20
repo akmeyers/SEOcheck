@@ -1,0 +1,5 @@
+{
+  "name": "OptiFlow SEO Auditor",
+  "description": "A comprehensive SEO analysis tool combining deterministic DOM auditing with AI-powered content insights using Google Gemini.",
+  "requestFramePermissions": []
+}
